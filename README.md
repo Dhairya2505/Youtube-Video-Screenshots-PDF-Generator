@@ -1,7 +1,8 @@
 ## Steps of setting up - 
 
 - Download this repository
-- npm install
+- run the command `npm install`
+- run the command `npm run build`
 - copy the `manifest.json` & `content.js` files to dist folder.
 - Go to chrome://extensions/ and enable developer mode.
 - Click on load unpacked and select the dist folder.
